@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+a8y/8kWRzNa1hImIHgzC/fiG64fycP52keIV9Gn5ORHK6qba0zIVVwZX981pT/zAAweVUDR3BmE4XZ6wM63GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aditi\\OneDrive\\Documents\\C#\\FSharpAditi\\FSharpAditi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aditi\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
